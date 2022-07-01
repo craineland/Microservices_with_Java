@@ -1,3 +1,5 @@
+package land.craine;
+
 import javax.swing.*;
 import java.awt.*;
 

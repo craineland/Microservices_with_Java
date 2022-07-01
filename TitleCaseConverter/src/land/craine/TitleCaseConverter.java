@@ -1,3 +1,5 @@
+package land.craine;
+
 public class TitleCaseConverter {
     public static String convertToTitleCase(String input) {
         StringBuilder builder = new StringBuilder();
